@@ -1,0 +1,23 @@
+{
+  "name": "zmq-for-local-ipc",
+  "version": "1.0.0",
+  "description": "ZeroMQ for local ipc between python app and js app.",
+  "main": "node-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siowyisheng/zmq-for-local-ipc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siowyisheng/zmq-for-local-ipc/issues"
+  },
+  "homepage": "https://github.com/siowyisheng/zmq-for-local-ipc#readme",
+  "dependencies": {
+    "zeromq": "^5.2.0"
+  }
+}
